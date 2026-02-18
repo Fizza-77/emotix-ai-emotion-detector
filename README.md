@@ -59,7 +59,7 @@ emotion-detector/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/emotix-ai-emotion-detector.git
+git clone https://github.com/Fizza-77/emotix-ai-emotion-detector.git
 
 ---
 
